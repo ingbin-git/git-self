@@ -1,5 +1,5 @@
 # git-self
-* Git 학습 내용 복습
+* __Git 학습 내용 복습__
   * git remote
   * git push
   * git clone
